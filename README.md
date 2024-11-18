@@ -17,9 +17,7 @@ The purpose of these scripts is to automate tasks that:
 Below is a list of current and planned scripts, along with their descriptions:
 
 1. **GitHub Repo Automation** - Automates the process of creating a new GitHub repository
-2. **New Product Checker** - Checks if new merch from your favorite brand is out and sends you an email automatically.
-3. **Video to GIF** (planned) - A simple script to convert video files into GIFs quickly.
-4. **Video Watermark** (planned) - A Python script to easily add watermarks to videos.
+2. **New Product Checker** (planned) - Checks if new merch from your favorite brand is out and sends you an email automatically.
    
 ## How to Use
 1. Clone this repository:
